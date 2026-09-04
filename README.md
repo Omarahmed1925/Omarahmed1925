@@ -2,78 +2,161 @@
 
 # Omar Ahmed
 
-**Flutter Developer · Computer Science Student**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Flutter+Developer;Software+Engineer;AI%2FML+Engineering+Explorer;Building+clean%2C+scalable+products" alt="Typing SVG" />
 
-Cairo, Egypt
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-oa718307%40gmail.com-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:oa718307@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Omarahmed1925&style=for-the-badge&color=7aa2f7)](https://github.com/Omarahmed1925)
+[![GitHub followers](https://img.shields.io/github/followers/Omarahmed1925?style=for-the-badge&logo=github&label=Followers)](https://github.com/Omarahmed1925?tab=followers)
+[![Email](https://img.shields.io/badge/Email-oa718307%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa718307@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## About
+## About Me
 
-Computer Science student and Flutter developer building well-architected mobile applications, with a growing focus on AI/ML engineering. Currently working on **Ambient**, a graduation project delivering AI-powered indoor navigation for university campuses.
+```yaml
+name: Omar Ahmed
+location: Cairo, Egypt
+focus:
+  - Flutter & mobile engineering
+  - Java / backend development
+  - AI & machine learning
+currently_building:
+  - Ambient — AI-powered indoor navigation for university campuses
+learning:
+  - Data science & ML engineering
+  - System design
+  - Security & distributed systems
+```
 
-- Comfortable across the stack — mobile (Flutter/Dart), backend (Python, Java, .NET), and web (React/Next.js)
-- Studies cryptography, security, and distributed systems as part of coursework
-- Uses AI-assisted development tools (Kiro AI, Codex) as part of an iterative workflow, not for one-shot output
-- Working through a structured roadmap toward ML engineering
+I enjoy turning ideas into clean, maintainable products and learning the engineering decisions behind them — not just making code work.
 
-<br/>
+---
 
-## Skills
-
-| Category | Stack |
-|---|---|
-| **Mobile** | Flutter, Dart |
-| **Backend** | Python, Java, C++, C#/.NET, Spring Boot, Jakarta EE |
-| **Web** | React, Next.js, HTML/CSS, JavaScript/TypeScript |
-| **Data & Infra** | Firebase, Supabase, PostgreSQL, RabbitMQ |
-| **Tools** | Git, Figma, Mapbox |
-
-<br/>
-
-## Featured Projects
-
-**[Ambient](https://github.com/YOUR_USERNAME/ambient)** — AI-powered smart campus indoor navigation *(graduation project)*
-`Flutter` `BLE Beacons` `Mapbox` `Supabase` `Python`
-Cubit/BLoC architecture with automated unit tests and performance benchmarks; documented with PlantUML use-case and Mermaid sequence diagrams.
-
-**[Reemo's Recipe](https://github.com/YOUR_USERNAME/reemos-recipe)** — Personal digital cookbook web app
-`React / Next.js` `Supabase`
-Five recipe categories, a diet toggle, a structured ingredient picker, and a handwritten-style recipe display mode.
-
-**[Home Services Platform](https://github.com/YOUR_USERNAME/home-services-platform)** — University microservices project
-`Jakarta EE` `Spring Boot` `RabbitMQ` `PostgreSQL`
-Message-queue-driven microservices deployed on WildFly, including end-to-end deployment troubleshooting.
-
-<br/>
-
-## GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,python,cpp,cs,dotnet,react,nextjs,js,ts,html,css,firebase,supabase,postgres,git,github,docker,vscode,figma&perline=11" />
 
 </div>
 
-<br/>
+---
 
-## Currently Learning
+## Featured Repositories
 
-Working through a 15-topic ML engineering roadmap — Python and data tooling through model validation and imbalanced data handling — paired with practical projects at each stage.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### ATM-SIM
+Java ATM simulation project.
+
+[![Stars](https://img.shields.io/github/stars/Omarahmed1925/ATM-SIM?style=flat-square&logo=github)](https://github.com/Omarahmed1925/ATM-SIM)
+[![Last Commit](https://img.shields.io/github/last-commit/Omarahmed1925/ATM-SIM?style=flat-square)](https://github.com/Omarahmed1925/ATM-SIM)
+
+[View repository →](https://github.com/Omarahmed1925/ATM-SIM)
+
+</td>
+<td width="50%" valign="top">
+
+### LearningManagementSystem
+Java-based learning management system.
+
+[![Stars](https://img.shields.io/github/stars/Omarahmed1925/LearningManagementSystem?style=flat-square&logo=github)](https://github.com/Omarahmed1925/LearningManagementSystem)
+[![Last Commit](https://img.shields.io/github/last-commit/Omarahmed1925/LearningManagementSystem?style=flat-square)](https://github.com/Omarahmed1925/LearningManagementSystem)
+
+[View repository →](https://github.com/Omarahmed1925/LearningManagementSystem)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Islami
+Flutter application built with Dart.
+
+[![Stars](https://img.shields.io/github/stars/Omarahmed1925/Islami?style=flat-square&logo=github)](https://github.com/Omarahmed1925/Islami)
+[![Last Commit](https://img.shields.io/github/last-commit/Omarahmed1925/Islami?style=flat-square)](https://github.com/Omarahmed1925/Islami)
+
+[View repository →](https://github.com/Omarahmed1925/Islami)
+
+</td>
+<td width="50%" valign="top">
+
+### newsApp
+Flutter news application.
+
+[![Stars](https://img.shields.io/github/stars/Omarahmed1925/newsApp?style=flat-square&logo=github)](https://github.com/Omarahmed1925/newsApp)
+[![Last Commit](https://img.shields.io/github/last-commit/Omarahmed1925/newsApp?style=flat-square)](https://github.com/Omarahmed1925/newsApp)
+
+[View repository →](https://github.com/Omarahmed1925/newsApp)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Live GitHub Analytics
+
+<!-- These SVGs are generated by the included GitHub Action every 24 hours. -->
 
 <div align="center">
 
-*Open to internships and collaboration.*
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" />
 
-[![Email](https://img.shields.io/badge/Get_in_Touch-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa718307@gmail.com)
+<br/>
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+
+<br/>
+
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarahmed1925&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omarahmed1925/Omarahmed1925/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omarahmed1925/Omarahmed1925/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Omarahmed1925/Omarahmed1925/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+## Current Direction
+
+- Building production-quality Flutter applications
+- Strengthening Java and backend engineering
+- Moving deeper into Data Science / ML Engineering
+- Practicing algorithms, data structures, and problem solving
+- Learning to design systems that are maintainable, testable, and scalable
+
+---
+
+<div align="center">
+
+### Build. Learn. Refine. Repeat.
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
