@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "repo": "HomeServicesMarketPlace",
+      "description": "Distributed on-demand home services marketplace built with Java, EJB, RabbitMQ, microservices, REST APIs, wallet-based booking, rollback handling, asynchronous confirmations, and admin transaction management."
+    },
+    {
+      "repo": "TriviaGame",
+      "description": "Concurrent Java client-server multiplayer trivia game using socket programming and multithreading, with authentication, real-time countdowns, categorized questions, scoring, match history, and disconnect handling."
+    },
+    {
+      "repo": "IslamRamzy444/graduation_project_movies",
+      "description": "Flutter movie exploration application using Clean Architecture, BLoC, and REST APIs, with trending, popular and top-rated movies, genre filtering, detailed information, trailers, and search."
+    },
+    {
+      "repo": "newsApp",
+      "description": "Real-time Flutter news application using BLoC/Cubit and NewsAPI, with category browsing, article details, keyword search, and in-app or browser reading."
+    },
+    {
+      "repo": "evently",
+      "description": "Flutter event discovery and management application with event creation, category browsing, REST API integration, and Google Maps for exact venue locations."
+    },
+    {
+      "repo": "Islami",
+      "description": "Full-featured Flutter Islamic application with Qur'an content, Ahadeeth, live Islamic radio streaming, reciters, and a digital Tasbeeh counter."
+    },
+    {
+      "repo": "Internir2",
+      "description": "Cross-platform Flutter internship platform connecting students with opportunities and companies with applicants, using Firebase authentication, real-time updates, REST APIs, and location-based services."
+    }
+  ]
+}

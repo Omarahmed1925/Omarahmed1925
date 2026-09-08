@@ -1,0 +1,33 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 88
+    },
+    {
+      "label": "Spring / Backend",
+      "value": 82
+    },
+    {
+      "label": "Flutter",
+      "value": 85
+    },
+    {
+      "label": "Distributed Systems",
+      "value": 78
+    },
+    {
+      "label": "Databases",
+      "value": 76
+    },
+    {
+      "label": "Software Design",
+      "value": 84
+    },
+    {
+      "label": "Networking",
+      "value": 72
+    }
+  ]
+}
